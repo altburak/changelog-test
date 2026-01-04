@@ -1,2 +1,5 @@
-# changelog-test
-Test repo for changelog generator
+# Changelog Test
+
+## Features
+- User authentication
+- Dashboard
