@@ -12,3 +12,6 @@
 ## New Features
 - API integration
 - Real-time notifications
+
+## Breaking Changes
+- Removed old authentication system
