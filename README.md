@@ -18,3 +18,6 @@
 
 ## More Fixes
 - Fixed API timeout
+
+## Documentation
+- Added API docs
