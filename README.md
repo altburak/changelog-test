@@ -8,3 +8,7 @@
 
 ## Maintenance
 - Updated dependencies
+
+## New Features
+- API integration
+- Real-time notifications
