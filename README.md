@@ -15,3 +15,6 @@
 
 ## Breaking Changes
 - Removed old authentication system
+
+## More Fixes
+- Fixed API timeout
